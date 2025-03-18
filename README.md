@@ -1,4 +1,4 @@
-# CMob Dev Brasil 2025
+# CMob Dev. PedControl
 
 Este script configura a frequência de pedestres e veículos em um servidor de GTA V usando FiveM. 
 
